@@ -17,11 +17,6 @@ Agents were evaluated based on learning efficiency, performance stability, and g
 - `screenbased_flappy.py`: Training and evaluation code for the screen-based environment.
 - `README.md`: Project summary and structure.
 
-## Results Summary
-
-- **Sarsa(λ)** generally outperformed **Monte Carlo** in both environments in terms of learning speed and final performance.
-- However, Sarsa(λ) showed higher variance and poorer generalization when tested in modified environments.
-
 ## Repository
 
 Environment source:  
@@ -29,4 +24,4 @@ Environment source:
 
 ## Author
 
-Ludovic Nic
+Ludovic Nicoud (CentraleSupélec)
