@@ -13,10 +13,8 @@ Agents were evaluated based on learning efficiency, performance stability, and g
 
 ## Contents
 
-- `main_state_based.py`: Training and evaluation code for the state-based environment.
-- `main_screen_based.py`: Training and evaluation code for the screen-based environment.
-- `report.pdf`: The final report detailing methodology, results, and analysis.
-- `figures/`: Folder containing all plots and visualizations.
+- `distancebased_flappy.py`: Training and evaluation code for the state-based environment.
+- `screenbased_flappy.py`: Training and evaluation code for the screen-based environment.
 - `README.md`: Project summary and structure.
 
 ## Results Summary
